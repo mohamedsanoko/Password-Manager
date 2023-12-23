@@ -1,5 +1,5 @@
 
-Password Manager App
+###Password Manager App###
 This is a simple password manager app that allows you to save and retrieve the registration information for your accounts on different websites. The app provides features like password generation, saving account details, and searching for saved information.
 
 Features
